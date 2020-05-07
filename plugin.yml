@@ -1,0 +1,13 @@
+name: MidoriAntiTNT
+version: 1.0
+main: azisaba.AntiTNT
+author: Midorichaan
+website: https://twitter.com/Midorichaan2525
+
+permissions:
+  midoriantitnt.notify:
+    default: op
+    description: TNT Explode Notify
+  midoriantitnt.canplace:
+    default: op
+    description: Can Place TNT
